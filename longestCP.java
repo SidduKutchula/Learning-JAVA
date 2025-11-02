@@ -18,6 +18,9 @@ public class longestCP {
         System.out.println("Output: \"" + longestCommonPrefix(strs1) + "\"");
 
         String[] strs2 = { "dog", "racecar", "car" };
-        System.out.println("Output: \"" + longestCommonPrefix(strs2) + "\"");
+        System.out.println("Output: \""  + longestCommonPrefix(strs2) + "\"");
+
+
+        
     }
 }
